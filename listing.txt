@@ -1,0 +1,13 @@
+итого 48
+drwxr-xr-x 12 pc pc 4096 ноя 19 19:44 .
+drwxr-xr-x  8 pc pc 4096 ноя 19 19:45 ..
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:19 1b
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:34 34
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:44 84
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:44 93
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:34 9d
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:34 c3
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:19 c6
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:44 f3
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:01 info
+drwxr-xr-x  2 pc pc 4096 ноя 19 19:01 pack
